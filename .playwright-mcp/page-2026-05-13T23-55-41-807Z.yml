@@ -1,0 +1,89 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e54]:
+          - generic [ref=e55]:
+            - generic [ref=e58]: Create a card component with a title and a description.
+            - img [ref=e61]
+          - generic [ref=e64]:
+            - img [ref=e67]
+            - generic [ref=e72]:
+              - generic [ref=e75]: Created App.jsx
+              - separator [ref=e76]
+              - paragraph [ref=e78]: "Now I'll create the Card component:"
+              - generic [ref=e81]: Created Card.jsx
+              - separator [ref=e82]
+              - paragraph [ref=e84]: Done! Created a Card component with title and description props, styled with Tailwind CSS.
+        - generic [ref=e20]:
+          - textbox "Describe the React component you want to create..." [ref=e21]
+          - button [disabled] [ref=e22]:
+            - img [ref=e23]
+    - separator [ref=e26]
+    - generic [ref=e28]:
+      - generic [ref=e29]:
+        - tablist [ref=e31]:
+          - tab "Preview" [ref=e32]
+          - tab "Code" [active] [selected] [ref=e33]
+        - generic [ref=e34]:
+          - button "Sign In" [ref=e35]
+          - button "Sign Up" [ref=e36]
+      - generic [ref=e90]:
+        - generic [ref=e96]:
+          - generic [ref=e97]:
+            - generic [ref=e98] [cursor=pointer]:
+              - img [ref=e99]
+              - img [ref=e101]
+              - generic [ref=e103]: components
+            - generic [ref=e106] [cursor=pointer]:
+              - img [ref=e107]
+              - generic [ref=e112]: Card.jsx
+          - generic [ref=e114] [cursor=pointer]:
+            - img [ref=e115]
+            - generic [ref=e120]: App.jsx
+        - separator [ref=e121]
+        - code [ref=e126]:
+          - generic [ref=e127]:
+            - generic [ref=e129]:
+              - generic [ref=e132]: "1"
+              - generic [ref=e134]: "2"
+              - generic [ref=e135]:
+                - generic [ref=e136] [cursor=pointer]: 
+                - generic [ref=e137]: "3"
+              - generic [ref=e138]:
+                - generic [ref=e139] [cursor=pointer]: 
+                - generic [ref=e140]: "4"
+              - generic [ref=e141]:
+                - generic [ref=e142] [cursor=pointer]: 
+                - generic [ref=e143]: "5"
+              - generic [ref=e144]:
+                - generic [ref=e145] [cursor=pointer]: 
+                - generic [ref=e146]: "6"
+              - generic [ref=e148]: "7"
+              - generic [ref=e150]: "8"
+              - generic [ref=e155]: "9"
+              - generic [ref=e157]: "10"
+              - generic [ref=e159]: "11"
+              - generic [ref=e161]: "12"
+              - generic [ref=e163]: "13"
+            - generic [ref=e214]:
+              - generic [ref=e216]: import Card from '@/components/Card';
+              - generic [ref=e219]: "export default function App() {"
+              - generic [ref=e221]: return (
+              - generic [ref=e223]: <div className="min-h-screen bg-gray-100 p-8">
+              - generic [ref=e225]: <Card
+              - generic [ref=e227]: title="Welcome to Cards"
+              - generic [ref=e229]: description="This is a simple card
+              - generic [ref=e231]: component with a title and description.
+              - generic [ref=e233]: You can use it to display content in an
+              - generic [ref=e235]: organized way."
+              - generic [ref=e237]: />
+              - generic [ref=e239]: </div>
+              - generic [ref=e241]: );
+              - generic [ref=e243]: "}"
+            - textbox "Editor content" [ref=e246]
+  - alert [ref=e48]
+  - generic [ref=e247]:
+    - alert
+    - alert

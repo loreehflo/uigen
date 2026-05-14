@@ -1,0 +1,95 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e54]:
+          - generic [ref=e55]:
+            - generic [ref=e58]: Create a card component with a title and a description.
+            - img [ref=e61]
+          - generic [ref=e64]:
+            - img [ref=e67]
+            - generic [ref=e72]:
+              - generic [ref=e75]: Created App.jsx
+              - separator [ref=e76]
+              - paragraph [ref=e78]: "Now I'll create the Card component:"
+              - generic [ref=e81]: Created Card.jsx
+              - separator [ref=e82]
+              - paragraph [ref=e84]: Done. Card component with title and description, styled with depth (border, ring, shadow), generous padding, and clear visual hierarchy.
+        - generic [ref=e20]:
+          - textbox "Describe the React component you want to create..." [ref=e21]
+          - button [disabled] [ref=e22]:
+            - img [ref=e23]
+    - separator [ref=e26]
+    - generic [ref=e28]:
+      - generic [ref=e29]:
+        - tablist [ref=e31]:
+          - tab "Preview" [ref=e32]
+          - tab "Code" [active] [selected] [ref=e33]
+        - generic [ref=e34]:
+          - button "Sign In" [ref=e35]
+          - button "Sign Up" [ref=e36]
+      - generic [ref=e86]:
+        - generic [ref=e92]:
+          - generic [ref=e93]:
+            - generic [ref=e94] [cursor=pointer]:
+              - img [ref=e95]
+              - img [ref=e97]
+              - generic [ref=e99]: components
+            - generic [ref=e102] [cursor=pointer]:
+              - img [ref=e103]
+              - generic [ref=e108]: Card.jsx
+          - generic [ref=e110] [cursor=pointer]:
+            - img [ref=e111]
+            - generic [ref=e116]: App.jsx
+        - separator [ref=e117]
+        - code [ref=e122]:
+          - generic [ref=e123]:
+            - generic [ref=e125]:
+              - generic [ref=e128]: "1"
+              - generic [ref=e130]: "2"
+              - generic [ref=e131]:
+                - generic [ref=e132] [cursor=pointer]: 
+                - generic [ref=e133]: "3"
+              - generic [ref=e134]:
+                - generic [ref=e135] [cursor=pointer]: 
+                - generic [ref=e136]: "4"
+              - generic [ref=e137]:
+                - generic [ref=e138] [cursor=pointer]: 
+                - generic [ref=e139]: "5"
+              - generic [ref=e142]:
+                - generic [ref=e143] [cursor=pointer]: 
+                - generic [ref=e144]: "6"
+              - generic [ref=e146]: "7"
+              - generic [ref=e148]: "8"
+              - generic [ref=e153]: "9"
+              - generic [ref=e155]: "10"
+              - generic [ref=e157]: "11"
+              - generic [ref=e159]: "12"
+              - generic [ref=e161]: "13"
+            - generic [ref=e218]:
+              - generic [ref=e220]: import Card from '@/components/Card';
+              - generic [ref=e223]: "export default function App() {"
+              - generic [ref=e225]: return (
+              - generic [ref=e227]: <div className="min-h-screen
+              - generic [ref=e229]: bg-gradient-to-br from-slate-50 to-slate-100
+              - generic [ref=e231]: flex items-center justify-center p-4">
+              - generic [ref=e233]: <Card
+              - generic [ref=e235]: title="Crafted Design System"
+              - generic [ref=e237]: description="Build modern interfaces with
+              - generic [ref=e239]: intentional spacing, color, and
+              - generic [ref=e241]: typography. Every component is designed
+              - generic [ref=e243]: to feel polished and purposeful."
+              - generic [ref=e245]: />
+              - generic [ref=e247]: </div>
+              - generic [ref=e249]: );
+              - generic [ref=e251]: "}"
+            - textbox "Editor content" [ref=e254]
+            - generic:
+              - generic:
+                - generic:
+                  - list
+  - alert [ref=e48]
+  - generic [ref=e255]:
+    - alert
+    - alert
